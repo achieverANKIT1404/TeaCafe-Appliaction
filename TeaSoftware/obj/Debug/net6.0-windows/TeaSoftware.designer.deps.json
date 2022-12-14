@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Guna.Charts.WinForms/1.0.4": {
+        "runtime": {
+          "lib/net40/Guna.Charts.WinForms.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guna.Charts.WinForms/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-78Lny2uFqhMROmRJ+4N53f3662ydRRVlRrED0EpucbQROEGMzNJkC34WWXcJPm8dz6+zONr4NkUUPJWO58o04A==",
+      "path": "guna.charts.winforms/1.0.4",
+      "hashPath": "guna.charts.winforms.1.0.4.nupkg.sha512"
+    }
+  }
+}
